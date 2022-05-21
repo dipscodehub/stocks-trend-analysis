@@ -4,4 +4,3 @@ streamlit
 matplotlib
 pandas_datareader
 tensorflow-cpu
-sklearn
