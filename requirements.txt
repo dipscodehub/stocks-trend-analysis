@@ -3,4 +3,4 @@ numpy
 streamlit
 matplotlib
 pandas_datareader
-keras
+tensorflow
